@@ -9,7 +9,7 @@ import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 import IconButton from '@material-ui/core/IconButton';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
-import Button from '@material-ui/core/button';
+import Button from '@material-ui/core/Button';
 import DraggableColorList from './DraggableColorList';
 import seedColors from './seedColors';
 import styles from './styles/NewPaletteFormStyles';
